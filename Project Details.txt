@@ -1,1 +1,14 @@
-Over the course of 1 month, we had to analyse data and create a flood warning system. The University gave us access to the data from the weather stations across England. However, the data was very messy and first we had to organize it, so that we can easily extract whatever measurement we need from a weather station. From there using data from weather machines and machine learning algorithms we predicted future debit levels of the river. The next step, was to create a threshold level from which flooding can occur, this threshold level varied from river to river and from zone to zone so we had implement its variation. Then finally we assets the risk level and the potential area that is affected. Finally, we had created an alert message which updates every minute with areas that are under risk of flooding. This was my favourite project, because it gave us a lot of freedom to play with the data and do useful stuff with it. Also, I enjoyed the fact that even the end product result was very much depended on your own choices that you made throughout the project. In addition, I have been able to get introduced to the machine learning algorithms which I found very interesting and excited which made me, want to learn more about it.
+Over the course of 1 month, we had to analyse data and create a flood warning system. 
+The University gave us access to the data from the weather stations across England. 
+However, the data was very messy and first we had to organize it, so that we can easily 
+extract whatever measurement we need from a weather station. From there using data from 
+weather machines and machine learning algorithms we predicted future debit levels of the 
+river. The next step, was to create a threshold level from which flooding can occur, this 
+threshold level varied from river to river and from zone to zone so we had implement its 
+variation. Then finally we assets the risk level and the potential area that is affected. 
+Finally, we had created an alert message which updates every minute with areas that are 
+under risk of flooding. This was my favourite project, because it gave us a lot of freedom 
+to play with the data and do useful stuff with it. Also, I enjoyed the fact that even the 
+end product result was very much depended on your own choices that you made throughout the 
+project. In addition, I have been able to get introduced to the machine learning algorithms 
+which I found very interesting and excited which made me, want to learn more about it.
